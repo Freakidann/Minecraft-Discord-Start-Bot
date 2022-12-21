@@ -17,7 +17,6 @@ Discord : https://discord.gg/QN2MakSe3F
 
 ![img1](https://cdn.discordapp.com/attachments/1048325449740193813/1055053142456270868/image.png)
 
-### :arrow_right: **[Add this bot to your server](https://discord.com/oauth2/authorize?client_id=816747912888975362&permissions=269798480&scope=bot%20applications.commands)**
 
 ## *Commands*
 "Start'
