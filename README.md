@@ -32,6 +32,9 @@ Discord : https://discord.gg/QN2MakSe3F
 <br>
 
 ## :information_source: *Notes and additional info*
+* Change server1 ou 2 par le nom de ton server dans touts les fichiers .bat
+* Tu peut ajouter des server dans les .bat
+* telecharger l'image pour que ça function
 * Permet de lancer des fichiers à partir du bot
 * Le bot peut être lancer H24
 * Mettre le Py du Bot dans le meme dossier du Fichier à ouvrir !
