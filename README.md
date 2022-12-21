@@ -47,9 +47,9 @@ This project is currently maintained by:
 <hr>
 
 
-Script Python :
+``Script Python :
 
-``import discord
+import discord
 import subprocess
  
 intents = discord.Intents.all()
@@ -68,4 +68,4 @@ async def on_message(message):
         subprocess.run(["YOURFILE.bat"])
         await message.channel.send('Serveur Start Wait...')
  
-client.run('YOURBOTTOKEN')``
+client.run('YOURBOTTOKEN')
