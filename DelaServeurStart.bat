@@ -2,6 +2,6 @@
 @echo off
 cd DELASERVEUR
  start bungee.bat
- start Dela2.bat
- start Dela3.bat
+ start server1.bat
+ start server2.bat
  exit
