@@ -14,7 +14,7 @@ async def on_message(message):
         return
  
     if message.content.startswith('start'):
-        subprocess.run(["DelaServeurStart.bat"])
+        subprocess.run(["YOURFILE.bat"])
         await message.channel.send('Serveur Start Wait...')
  
 client.run('YOURBOTTOKEN')
